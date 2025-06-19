@@ -20,9 +20,9 @@ A Python script that extracts JavaScript files from a given webpage URL and save
 
 1. Clone or download this repository
 2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 Usage
 bash
 python js_extractor.py [URL]
