@@ -22,13 +22,15 @@ A Python script that extracts JavaScript files from a given webpage URL and save
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
+   ```
 Usage
 bash
 python js_extractor.py [URL]
 Example:
 
-bash
+```bash
 python js_extractor.py https://example.com
+```
 The script will:
 
 Create a js_files directory (if it doesn't exist)
